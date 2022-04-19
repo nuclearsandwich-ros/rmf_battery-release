@@ -1,1 +1,1 @@
-{"base": "fbd0315", "parent": "debian/rolling/rmf_battery", "previous": "c847674", "trim": "", "trimbase": ""}
+{"base": "2563e90", "parent": "debian/humble/rmf_battery", "previous": "94bbca8", "trim": "", "trimbase": ""}
